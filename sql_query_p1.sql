@@ -3,7 +3,7 @@ CREATE DATABASE sql_project_p2;
 
 
 -- Create TABLE
-DROP TABLE IF EXISTS retail_sales;
+DROP TABLE IF EXISTS retail_sles;
 CREATE TABLE retail_sales
             (
                 transaction_id INT PRIMARY KEY,	
